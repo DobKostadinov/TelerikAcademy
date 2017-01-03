@@ -24,7 +24,7 @@
 
         public override string ToString()
         {
-            return string.Format("Version {0}.{1}", this.Major, this.Minor);
+            return string.Format($"Version {this.Major}.{this.Minor}");
         }
     }
 }
