@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="P01.SchoolClasses.Models.ClassOfStudents" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYCAAAEAAAQAAAgAAAAAAAAAAAAAAAAAAIAQgACAgI=</HashCode>
+      <FileName>Models\ClassOfStudents.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.106" Collapsed="true" />
+  </Class>
+  <Class Name="P01.SchoolClasses.Models.Discipline" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAABAAAIAAAASAAAAEAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Models\Discipline.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="P01.SchoolClasses.Models.Person" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Person\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="P01.SchoolClasses.Models.Student" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Models\Person\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="P01.SchoolClasses.Models.Teacher" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAECAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Models\Person\Teacher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="P01.SchoolClasses.Models.School" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAABAAQAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\School.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="P01.SchoolClasses.StartUp" Collapsed="true">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="P01.SchoolClasses.Contracts.IClassOfStudents" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAIAQAAAAAA=</HashCode>
+      <FileName>Contracts\IClassOfStudents.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="P01.SchoolClasses.Contracts.ICommentable" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IComment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="P01.SchoolClasses.Contracts.INamable" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\INamable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="P01.SchoolClasses.Contracts.ISchool" Collapsed="true">
+    <Position X="10.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\ISchool.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="P01.SchoolClasses.Contracts.ITeacher" Collapsed="true">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Contracts\ITeacher.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
