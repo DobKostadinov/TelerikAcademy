@@ -30,5 +30,3 @@ function solve() {
 		return sum;
 	}
 }
-
-module.exports = solve;
