@@ -127,16 +127,16 @@ function solve() {
 
 
         function listBooks() {
-            let book = arguments[0];
+            let option = arguments[0];
 
-            if (!book) {
+            if (!option) {
                 return books;
             }
-            if (book.category) {
-                return books.filter(x => x.category === book.category);
+            if (option.category) {
+                return books.filter((x)=> x.category === option.category);
             }
-            if (book.author) {
-                return books.filter(x => x.author === book.author);
+            if (option.author) {
+                return books.filter((x)=> x.author === option.author);
             }
 
             return books;
