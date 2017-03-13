@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "P01. BoolConversion", "P01. BoolConversion", "{CE181E92-0B39-43D2-BD69-A8567F7E3C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolConversion", "BoolConversionMain\BoolConversion.csproj", "{7B8E3B02-C0A7-4342-87D8-14C1636BD7B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "P02. PersonCreation", "P02. PersonCreation", "{51AF8E8F-684F-4062-BFCE-B64A7689FDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonCreation", "PersonCreationMain\PersonCreation.csproj", "{941A32AE-B19E-4A0F-A763-F036483945E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "P04. Minesweeper", "P04. Minesweeper", "{9E8ACCD6-6FDA-41C3-A7E6-16AF4F4C4E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{B60CA93F-5029-420F-96E1-07959AF177B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "P03. JSButton", "P03. JSButton", "{295F9882-DAD1-4632-84F8-F9857CA91188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsButton", "jsButton\jsButton.csproj", "{2FF65F56-2AFF-4C49-904B-706DF6A5A67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8E3B02-C0A7-4342-87D8-14C1636BD7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8E3B02-C0A7-4342-87D8-14C1636BD7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8E3B02-C0A7-4342-87D8-14C1636BD7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8E3B02-C0A7-4342-87D8-14C1636BD7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941A32AE-B19E-4A0F-A763-F036483945E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941A32AE-B19E-4A0F-A763-F036483945E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941A32AE-B19E-4A0F-A763-F036483945E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941A32AE-B19E-4A0F-A763-F036483945E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60CA93F-5029-420F-96E1-07959AF177B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60CA93F-5029-420F-96E1-07959AF177B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60CA93F-5029-420F-96E1-07959AF177B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60CA93F-5029-420F-96E1-07959AF177B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF65F56-2AFF-4C49-904B-706DF6A5A67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF65F56-2AFF-4C49-904B-706DF6A5A67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF65F56-2AFF-4C49-904B-706DF6A5A67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF65F56-2AFF-4C49-904B-706DF6A5A67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B8E3B02-C0A7-4342-87D8-14C1636BD7B9} = {CE181E92-0B39-43D2-BD69-A8567F7E3C78}
+		{941A32AE-B19E-4A0F-A763-F036483945E0} = {51AF8E8F-684F-4062-BFCE-B64A7689FDBE}
+		{B60CA93F-5029-420F-96E1-07959AF177B5} = {9E8ACCD6-6FDA-41C3-A7E6-16AF4F4C4E57}
+		{2FF65F56-2AFF-4C49-904B-706DF6A5A67A} = {295F9882-DAD1-4632-84F8-F9857CA91188}
+	EndGlobalSection
+EndGlobal
