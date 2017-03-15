@@ -1,5 +1,4 @@
 # Event Model
-_For instructions on how to run the tests, check [here](https://github.com/TelerikAcademy/JavaScript-UI-and-DOM/blob/master/RUN_TESTS.md)
 
 ##  Task 1
 Create a function that takes an id or DOM element and:
