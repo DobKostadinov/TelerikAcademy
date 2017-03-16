@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Figure", "01. Size\01. Figure.csproj", "{89C2457C-2CFA-4E64-B39B-68A533564A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Print", "02. Print\02. Print.csproj", "{110A8590-5604-487A-8302-67DC6DD2A4E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C2457C-2CFA-4E64-B39B-68A533564A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C2457C-2CFA-4E64-B39B-68A533564A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C2457C-2CFA-4E64-B39B-68A533564A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C2457C-2CFA-4E64-B39B-68A533564A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110A8590-5604-487A-8302-67DC6DD2A4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110A8590-5604-487A-8302-67DC6DD2A4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110A8590-5604-487A-8302-67DC6DD2A4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110A8590-5604-487A-8302-67DC6DD2A4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
