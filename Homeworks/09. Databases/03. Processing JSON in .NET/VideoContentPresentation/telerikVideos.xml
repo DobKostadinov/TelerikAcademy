@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <id>yt:channel:UCLC-vbm7OWvpbqzXaoAMGGw</id>
+ <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+ <title>Telerik Academy</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <author>
+  <name>Telerik Academy</name>
+  <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+ </author>
+ <published>2011-06-24T15:53:13+00:00</published>
+ <entry>
+  <id>yt:video:oFcFfiChizE</id>
+  <yt:videoId>oFcFfiChizE</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Unit testing - Live demo</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oFcFfiChizE"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-05-03T11:27:31+00:00</published>
+  <updated>2017-05-04T06:28:49+00:00</updated>
+  <media:group>
+   <media:title>Unit testing - Live demo</media:title>
+   <media:content url="https://www.youtube.com/v/oFcFfiChizE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oFcFfiChizE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Unit testing - Live demo
+Курс: JavaScript приложения
+Лектор: Кристиян Цъклев
+Дата: 2 май 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="315"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:H-6OKndGfjc</id>
+  <yt:videoId>H-6OKndGfjc</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Q&amp;A Сесия</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=H-6OKndGfjc"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-28T17:58:18+00:00</published>
+  <updated>2017-05-03T06:53:50+00:00</updated>
+  <media:group>
+   <media:title>Q&amp;A Сесия</media:title>
+   <media:content url="https://www.youtube.com/v/H-6OKndGfjc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/H-6OKndGfjc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Q&amp;A Сесия
+Курс: Качествен програмен код - част 2
+Лектор: Мартин Вешев, Стивън Цветков, Виктор Цветков
+Дата: 28 април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="265"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:o8RKH0Gi_Ls</id>
+  <yt:videoId>o8RKH0Gi_Ls</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Unit testing basics - Mocha, Chai, Jasmine</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=o8RKH0Gi_Ls"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-28T17:55:36+00:00</published>
+  <updated>2017-04-28T21:47:56+00:00</updated>
+  <media:group>
+   <media:title>Unit testing basics - Mocha, Chai, Jasmine</media:title>
+   <media:content url="https://www.youtube.com/v/o8RKH0Gi_Ls?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/o8RKH0Gi_Ls/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Unit testing basics - Mocha, Chai, Jasmine
+Курс: JavaScript приложения
+Лектор: Кристиян Цъклев
+Дата: 27 април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="290"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0Kw98DXVcqo</id>
+  <yt:videoId>0Kw98DXVcqo</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Unit testing - Spies and Mocks with Sinon</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0Kw98DXVcqo"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-28T17:37:49+00:00</published>
+  <updated>2017-04-28T19:27:52+00:00</updated>
+  <media:group>
+   <media:title>Unit testing - Spies and Mocks with Sinon</media:title>
+   <media:content url="https://www.youtube.com/v/0Kw98DXVcqo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0Kw98DXVcqo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Unit testing - Spies and Mocks with Sinon
+Курс: JavaScript приложения
+Лектор: Кристиян Цъклев
+Дата: 27 април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="201"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uSwynhF0AOk</id>
+  <yt:videoId>uSwynhF0AOk</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>HQC-2: Основи на софтуерното инжененрство</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uSwynhF0AOk"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-27T09:41:41+00:00</published>
+  <updated>2017-05-03T16:29:50+00:00</updated>
+  <media:group>
+   <media:title>HQC-2: Основи на софтуерното инжененрство</media:title>
+   <media:content url="https://www.youtube.com/v/uSwynhF0AOk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uSwynhF0AOk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Основи на софтуерното инжененрство
+Курс: Качествен програмен код - част 2
+Лектор: Виктор Цветков
+Дата: 26 април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="239"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WxqC2T6UW-g</id>
+  <yt:videoId>WxqC2T6UW-g</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>HQC-2: Основи на QA</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WxqC2T6UW-g"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-27T09:08:23+00:00</published>
+  <updated>2017-05-01T08:36:17+00:00</updated>
+  <media:group>
+   <media:title>HQC-2: Основи на QA</media:title>
+   <media:content url="https://www.youtube.com/v/WxqC2T6UW-g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WxqC2T6UW-g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Основи на QA
+Курс: Качествен програмен код - част 2
+Лектор: Виктор Цветков
+Дата: 26 април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="140"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rTGp6jf539g</id>
+  <yt:videoId>rTGp6jf539g</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Teodora Stoyanova, Telerik Software Academy 2016-2017</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rTGp6jf539g"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-26T13:46:19+00:00</published>
+  <updated>2017-05-07T10:31:21+00:00</updated>
+  <media:group>
+   <media:title>Teodora Stoyanova, Telerik Software Academy 2016-2017</media:title>
+   <media:content url="https://www.youtube.com/v/rTGp6jf539g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rTGp6jf539g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Интервю с Теодора Стоянова, която през април 2017 г. завърши седми сезон на Софтуерната Телерик Академия.
+
+Най-актуалното от Телерик Академия следете във Facebook страницата ни: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="513"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZqQIwAo7Pdw</id>
+  <yt:videoId>ZqQIwAo7Pdw</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>HQC-2: Инструменти за разработка</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZqQIwAo7Pdw"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-24T17:54:24+00:00</published>
+  <updated>2017-05-02T10:37:48+00:00</updated>
+  <media:group>
+   <media:title>HQC-2: Инструменти за разработка</media:title>
+   <media:content url="https://www.youtube.com/v/ZqQIwAo7Pdw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZqQIwAo7Pdw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Инструменти за разработка
+Курс: Качествен програмен код - част 2
+Лектор: Стивън Цветков
+Дата: 24 април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="380"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nJzewk2HaJc</id>
+  <yt:videoId>nJzewk2HaJc</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Kiril Velichkov - Telerik Software Academy 2016-2017</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nJzewk2HaJc"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-24T12:03:32+00:00</published>
+  <updated>2017-05-11T10:44:02+00:00</updated>
+  <media:group>
+   <media:title>Kiril Velichkov - Telerik Software Academy 2016-2017</media:title>
+   <media:content url="https://www.youtube.com/v/nJzewk2HaJc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nJzewk2HaJc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Интервю с Кирил Величков, който през април 2017 г. завърши седми сезон на Софтуерната Телерик Академия.
+
+Най-актуалното от Телерик Академия следете във Facebook страницата ни: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="314"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QDAjZD0p3L8</id>
+  <yt:videoId>QDAjZD0p3L8</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Iliyan Kupenov, Telerik Software Academy 2016-2017</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QDAjZD0p3L8"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-24T11:56:24+00:00</published>
+  <updated>2017-05-07T01:16:54+00:00</updated>
+  <media:group>
+   <media:title>Iliyan Kupenov, Telerik Software Academy 2016-2017</media:title>
+   <media:content url="https://www.youtube.com/v/QDAjZD0p3L8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QDAjZD0p3L8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Интервю с Илиян Купенов, който през април 2017 г. завърши седми сезон на Софтуерната Телерик Академия.
+
+Най-актуалното от Телерик Академия следете във Facebook страницата ни: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="534"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oN_JC7vnYag</id>
+  <yt:videoId>oN_JC7vnYag</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Routing</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oN_JC7vnYag"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-21T13:36:46+00:00</published>
+  <updated>2017-04-29T12:53:30+00:00</updated>
+  <media:group>
+   <media:title>Routing</media:title>
+   <media:content url="https://www.youtube.com/v/oN_JC7vnYag?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oN_JC7vnYag/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Routing
+Курс: JavaScript приложения
+Лектор: Кристиян Цъклев
+Дата: 20 Април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="681"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GwuHqKelrww</id>
+  <yt:videoId>GwuHqKelrww</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Fortune Cookies - демо</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GwuHqKelrww"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-21T13:33:27+00:00</published>
+  <updated>2017-04-21T16:33:41+00:00</updated>
+  <media:group>
+   <media:title>Fortune Cookies - демо</media:title>
+   <media:content url="https://www.youtube.com/v/GwuHqKelrww?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GwuHqKelrww/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Fortune Cookies - демо
+Курс: JavaScript приложения
+Лектор: Кристиян Цъклев
+Дата: 20 Април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="389"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Zn6LFM-WGqY</id>
+  <yt:videoId>Zn6LFM-WGqY</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Web storages</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Zn6LFM-WGqY"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-21T13:25:33+00:00</published>
+  <updated>2017-04-21T14:48:34+00:00</updated>
+  <media:group>
+   <media:title>Web storages</media:title>
+   <media:content url="https://www.youtube.com/v/Zn6LFM-WGqY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Zn6LFM-WGqY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Web storages
+Курс: JavaScript приложения
+Лектор: Кристиян Цъклев
+Дата: 20 Април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="319"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:R_Hoa2ueCFM</id>
+  <yt:videoId>R_Hoa2ueCFM</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Fortune Cookies - демо</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=R_Hoa2ueCFM"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-21T13:21:37+00:00</published>
+  <updated>2017-04-21T14:12:25+00:00</updated>
+  <media:group>
+   <media:title>Fortune Cookies - демо</media:title>
+   <media:content url="https://www.youtube.com/v/R_Hoa2ueCFM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/R_Hoa2ueCFM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Fortune Cookies - демо
+Курс: JavaScript приложения
+Лектор: Кристиян Цъклев
+Дата: 20 Април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="416"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yEsIen3uq9E</id>
+  <yt:videoId>yEsIen3uq9E</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Handlebars</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yEsIen3uq9E"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-04-21T13:19:45+00:00</published>
+  <updated>2017-05-07T13:38:39+00:00</updated>
+  <media:group>
+   <media:title>Handlebars</media:title>
+   <media:content url="https://www.youtube.com/v/yEsIen3uq9E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yEsIen3uq9E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Handlebars
+Курс: JavaScript приложения
+Лектор: Кристиян Цъклев
+Дата: 20 Април 2017
+
+Уебсайт на „Академията на Телерик”: http://telerikacademy.com
+
+Следете за предстоящи обучения на „Академията на Телерик” във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="2" average="1.00" min="1" max="5"/>
+    <media:statistics views="428"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
